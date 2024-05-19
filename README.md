@@ -1,1 +1,1 @@
-# CQRSPatternEx
+# CQRS e MediatR
